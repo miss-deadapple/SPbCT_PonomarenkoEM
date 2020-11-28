@@ -1,0 +1,2 @@
+C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\x64\Release\My1516lab.Calculator.resources
+C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\x64\Release\15_16_lab.vcxproj.GenerateResource.cache
