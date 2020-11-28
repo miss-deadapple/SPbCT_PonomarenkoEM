@@ -1,3 +1,6 @@
 C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\x64\Debug\15_16_lab.vcxprojAssemblyReference.cache
 C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\x64\Debug\My1516lab.Calculator.resources
 C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\x64\Debug\15_16_lab.vcxproj.GenerateResource.cache
+C:\Users\Elizaveta\Desktop\Projects\SPbCT_PonomarenkoEM\15_16_lab\15_16_lab\x64\Debug\15_16_lab.vcxprojAssemblyReference.cache
+C:\Users\Elizaveta\Desktop\Projects\SPbCT_PonomarenkoEM\15_16_lab\15_16_lab\x64\Debug\My1516lab.Calculator.resources
+C:\Users\Elizaveta\Desktop\Projects\SPbCT_PonomarenkoEM\15_16_lab\15_16_lab\x64\Debug\15_16_lab.vcxproj.GenerateResource.cache

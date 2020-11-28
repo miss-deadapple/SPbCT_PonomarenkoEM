@@ -8,8 +8,6 @@ using namespace System::Windows::Forms;
 void main(array<String^>^ arg) {
 	Application::EnableVisualStyles();
 	Application::SetCompatibleTextRenderingDefault(false);
-
 	My1516lab::Calculator form; //имя вашего проекта
 	Application::Run(% form);
-
 };

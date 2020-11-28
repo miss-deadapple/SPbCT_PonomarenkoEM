@@ -1,9 +1,9 @@
 ﻿  Calculator.cpp
-C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\Calculator.h(248,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\Calculator.h(249,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\Calculator.h(250,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\Calculator.h(251,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\Calculator.h(256,23): warning C4101: e: неиспользованная локальная переменная
-C:\Users\Elizaveta\source\repos\15_16_lab\15_16_lab\Calculator.cpp(8,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Elizaveta\Desktop\Projects\SPbCT_PonomarenkoEM\15_16_lab\15_16_lab\Calculator.h(237,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Elizaveta\Desktop\Projects\SPbCT_PonomarenkoEM\15_16_lab\15_16_lab\Calculator.h(238,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Elizaveta\Desktop\Projects\SPbCT_PonomarenkoEM\15_16_lab\15_16_lab\Calculator.h(239,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Elizaveta\Desktop\Projects\SPbCT_PonomarenkoEM\15_16_lab\15_16_lab\Calculator.h(240,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Elizaveta\Desktop\Projects\SPbCT_PonomarenkoEM\15_16_lab\15_16_lab\Calculator.h(245,23): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Elizaveta\Desktop\Projects\SPbCT_PonomarenkoEM\15_16_lab\15_16_lab\Calculator.cpp(8,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
   Calculator.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  15_16_lab.vcxproj -> C:\Users\Elizaveta\source\repos\15_16_lab\x64\Debug\15_16_lab.exe
+  15_16_lab.vcxproj -> C:\Users\Elizaveta\Desktop\Projects\SPbCT_PonomarenkoEM\15_16_lab\x64\Debug\15_16_lab.exe

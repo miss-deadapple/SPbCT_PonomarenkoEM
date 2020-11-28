@@ -1,10 +1,6 @@
 #pragma once
 
 namespace My1516lab {
-
-
-	float a, b, c, d, S;
-
 	using namespace System;
 	using namespace System::ComponentModel;
 	using namespace System::Collections;
@@ -12,14 +8,15 @@ namespace My1516lab {
 	using namespace System::Data;
 	using namespace System::Drawing;
 
+	float a, b, c, d, S;
+
 	/// <summary>
 	/// —водка дл€ Calculator
 	/// </summary>
 	public ref class Calculator : public System::Windows::Forms::Form
 	{
 	public:
-		Calculator(void)
-		{
+		Calculator(void) {
 			InitializeComponent();
 			//
 			//TODO: добавьте код конструктора
@@ -30,10 +27,8 @@ namespace My1516lab {
 		/// <summary>
 		/// ќсвободить все используемые ресурсы.
 		/// </summary>
-		~Calculator()
-		{
-			if (components)
-			{
+		~Calculator() {
+			if (components)	{
 				delete components;
 			}
 		}
@@ -50,20 +45,14 @@ namespace My1516lab {
 	private: System::Windows::Forms::Button^ button1;
 	private: System::Windows::Forms::Label^ label6;
 	private: System::Windows::Forms::Label^ label7;
-
-	private:
-		/// <summary>
-		/// ќб€зательна€ переменна€ конструктора.
-		/// </summary>
-		System::ComponentModel::Container^ components;
+	private: System::ComponentModel::Container^ components;
 
 #pragma region Windows Form Designer generated code
 		/// <summary>
 		/// “ребуемый метод дл€ поддержки конструктора Ч не измен€йте 
 		/// содержимое этого метода с помощью редактора кода.
 		/// </summary>
-		void InitializeComponent(void)
-		{
+		void InitializeComponent(void) {
 			System::ComponentModel::ComponentResourceManager^ resources = (gcnew System::ComponentModel::ComponentResourceManager(Calculator::typeid));
 			this->label1 = (gcnew System::Windows::Forms::Label());
 			this->label2 = (gcnew System::Windows::Forms::Label());
@@ -277,6 +266,5 @@ private: System::Void textBox4_KeyPress(System::Object^ sender, System::Windows:
 }
 private: System::Void Calculator_Load(System::Object^ sender, System::EventArgs^ e) {
 }
-
 };
 }
