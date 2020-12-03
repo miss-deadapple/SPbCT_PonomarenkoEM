@@ -1,0 +1,4 @@
+﻿  Ponomarenko.cpp
+C:\Users\Elizaveta\source\repos\Praktika-main\Ponomarenko\Ponomarenko\Ponomarenko.cpp(76,22): warning C4129: p: неизвестная escape-последовательность
+C:\Users\Elizaveta\source\repos\Praktika-main\Ponomarenko\Ponomarenko\Ponomarenko.cpp(257,22): warning C4101: temp: неиспользованная локальная переменная
+  Ponomarenko.vcxproj -> C:\Users\Elizaveta\source\repos\Praktika-main\Ponomarenko\x64\Debug\Ponomarenko.exe

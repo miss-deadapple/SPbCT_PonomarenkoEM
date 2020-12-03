@@ -1,0 +1,2 @@
+C:\Users\Maxim\source\repos\StaticLib1\Debug\StaticLib1.pdb
+C:\Users\Maxim\source\repos\StaticLib1\StaticLib1\Debug\StaticLib1.pdb
